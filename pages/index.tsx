@@ -8,7 +8,7 @@ const Home: NextPage = () => {
   return (
     <div >
       <Head>
-        <title>Omar's Portfolio</title>
+        <title>Daniel's Portfolio</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
