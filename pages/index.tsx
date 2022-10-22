@@ -38,7 +38,21 @@ const Home: NextPage = () => {
                 title="Plan" 
                 text="Task manager Android " 
                 label="Try it out"
-                href="https://github.com/danielh4t" />
+                href="https://github.com/danielh4t/plan" />
+              </div>
+            </div>
+            {/* Project 2 */}
+            <div className="flex flex-col space-y-8 mt-4 md:flex-row-reverse md:justify-between md:items-center md:space-y-0">
+              <div className="w-full h-[250px] md:w-[350px] md:h-[180px] bg-gradient-to-r from-cyan-300 to-blue-500 rounded-md shadow-lg md:ml-12"></div>
+              <div>
+                <span className="text-sm text-gray-400 font-light ">
+                  2022 - present
+                </span>
+                <HeadingWithText 
+                title="xoxo" 
+                text="Unbeatable AI at Tic Tac Toe" 
+                label="Play It"
+                href="https://tictactoe-xoxo-web.app" />
               </div>
             </div>
           </div>
